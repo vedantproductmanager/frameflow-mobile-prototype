@@ -1,33 +1,23 @@
 # Frameflow — mobile story-to-video prototype
 
-A shareable, interactive first-pass prototype for turning a narrated story into a frame-by-frame MP4.
+A simple, interactive walkthrough of the Frameflow mobile screens.
 
-**[Open the prototype](index.html)** · [Read the product note](product-note.md)
+**[Open the visual prototype](https://vedantproductmanager.github.io/frameflow-mobile-prototype/)** · [Read the product note](product-note.md)
 
-## Explore the flow
+Open the visual prototype link in a browser. No setup or download is needed.
 
-Use the numbered step labels to move through the screens:
+## What you can explore
 
 1. **Projects** — start a project or reopen a draft or finished video.
-2. **Project brief** — name the project, describe the story and choose its target length.
-3. **Frame plan** — review one complete ordered frame list and edit, add, remove or reorder prompts.
-4. **Storyboard** — review each image, edit its prompt, see image history, regenerate that frame or add a new frame.
-5. **Preview & sound** — preview the sequence and optionally attach one soundtrack.
-6. **Export** — review MP4 settings and start or retry the render.
-7. **Finished video** — play the result, inspect the exact frames used, or explicitly download it.
+2. **Project brief** — name the project and describe the story and moments in order.
+3. **Frame plan** — review and reorder one complete frame list.
+4. **Storyboard** — review images, edit prompts and browse image versions.
+5. **Preview & sound** — preview the frames and add one soundtrack.
+6. **Export** — review settings and create an MP4.
+7. **Finished video** — play the result, review its frames or download it.
 
-The example error controls are below the phone preview on narrow screens and in the right panel on wider screens.
+## About this preview
 
-## What this prototype represents
+The images and interactions are examples. This preview does not generate images, upload audio, render video or save project data. The product is intended to keep media in private cloud storage; a copy reaches the phone only after someone chooses Download.
 
-The interactions and imagery are simulated with sample content. This is a product and flow prototype; it does not call image models, upload audio, render video, or save project data. No customer media is included.
-
-The intended product keeps project media in private cloud storage. Review playback streams from the cloud; a device copy is created only when someone chooses **Download**.
-
-## View it locally
-
-Open index.html in a modern browser. No build step or server is required.
-
-## Sharing and reuse
-
-This repository is public for review. No software license has been added; reuse rights have not been specified.
+No customer media is included. This repository is public for review; no reuse license has been added.
